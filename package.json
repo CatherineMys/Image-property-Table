@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/someone/layout.git"
+    "url": "git+https://github.com/CatherineMys/Image-property-Table.git"
   },
   "author": "Catherine Mystrioti",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/someone/layout/issues"
+    "url": "https://github.com/CatherineMys/Image-property-Table/issues"
   },
-  "homepage": "https://github.com/someone/layout/wiki",
-  "wiki": "https://github.com/someone/layout/wiki",
+  "homepage": "https://github.com/CatherineMys/Image-property-Table/wiki",
+  "wiki": "https://github.com/CatherineMys/Image-property-Table/wiki",
   "evolve-version": "4.1 - 4.2"
 }
