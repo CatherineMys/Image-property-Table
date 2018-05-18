@@ -1,0 +1,21 @@
+{
+	"Name" : "gridIconDDLColumns", 
+	"DisplayName" : "Table (w/ Option to replace drop-down list property values/columns with icons)", 
+	"Description" : "Simple grid view, table based, with the additional option of adding icons for specified drop-down list values",
+	"JavaScriptClassName" : "cwLayoutTableDDLPropertyValuesWithIcons",
+    "Options": [
+        {
+            "Id": "property-type",
+            "DisplayName": "Property script name",
+            "Description": "Enter the script name of the drop-down list property you wish to replace the values with icons",
+            "Type" :  2
+        },
+		{
+            "Id": "value-pairs",
+            "DisplayName": "Property value : image pairs",
+            "Description": "Enter the value : image pairs, \ne.g.: {\"options\":[{\"value\":\"Y\", \"image\":\"Y.png\" }, {\"value\":\"N\", \"image\":\"N.png\" }]}",
+            "Type" :  2
+        }
+		
+    ]
+}

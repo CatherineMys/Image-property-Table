@@ -1,0 +1,98 @@
+/* GLOBAL */
+/* LOGIN */
+/* DIAGRAM */
+/* HOME PAGE */
+/* MENU LEFT */
+/* MAIN MENU */
+/* SUB MENU */
+/* PAGE TAB */
+/* DROPDOWN NOTIFICATIONS */
+/* SOCIAL */
+/* LIST BOX */
+/* PROPERTIES GROUP */
+/* BUTTONS */
+/* PAGE ACTIONS */
+/* ACCORDIONS */
+/* DISCUSSIONS */
+/* WORLD MAP */
+/* USER ZONE */
+/* POPUP */
+/* BADGES */
+/* TASKS & NOTIFICATIONS */
+/* GLOBAL SEARCH */
+/* TOP BAR */
+/* GRID */
+/* DIAGRAM TILE */
+/* MATRIX ADVANCED */
+table.cw-grid {
+  border-spacing: 0;
+  width: 100%;
+  border: none;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+  border-radius: 2px;
+  margin: 10px auto 0 auto;
+  background-color: white;
+}
+table.cw-grid td:last-child {
+  border-right: 1px solid #eee;
+}
+table.cw-grid td {
+  border-left: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+  padding: 5px;
+  vertical-align: middle;
+}
+table.cw-grid td a.cw-grid-action-button-edit {
+  display: none;
+}
+table.cw-grid td ul.cw-list {
+  margin: 0;
+}
+table.cw-grid td ul {
+  text-align: left;
+}
+table.cw-grid td:first-child {
+  text-align: center;
+}
+table.cw-grid th {
+  font-weight: normal;
+}
+table.cw-grid tr:first-child,
+table.cw-grid thead {
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+}
+table.cw-grid tr:last-child {
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+table.cw-grid tr:last-child td:first-child {
+  border-bottom-left-radius: 2px;
+}
+table.cw-grid tr:last-child td:last-child {
+  border-bottom-right-radius: 2px;
+}
+table.cw-grid tr:not(:first-child):hover {
+  background-color: #efefef;
+}
+table.cw-grid tr:not(:first-child):hover th {
+  background-color: #efefef;
+}
+table.cw-grid th:first-child {
+  border-top-left-radius: 2px;
+  width: 60px;
+  text-align: center;
+}
+table.cw-grid th:last-child {
+  border-top-right-radius: 2px;
+}
+table.cw-grid .cw-grid-action-button:hover {
+  cursor: pointer;
+}
+table.cw-grid .cw-grid-action-button {
+  margin: 2px;
+}
+table.cw-grid th.cw-grid-association-header {
+  min-width: 280px;
+}

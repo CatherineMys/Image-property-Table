@@ -1,0 +1,21 @@
+{
+  "name": "ImagePropertyTable",
+  "version": "0.0.0",
+  "description": "Replacing a property's value with an image",
+  "main": "src/cwLayoutTableDDLPropertyValuesWithIcons.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/someone/layout.git"
+  },
+  "author": "Catherine Mystrioti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/someone/layout/issues"
+  },
+  "homepage": "https://github.com/someone/layout/wiki",
+  "wiki": "https://github.com/someone/layout/wiki",
+  "evolve-version": "4.1 - 4.2"
+}
