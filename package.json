@@ -1,6 +1,6 @@
 {
   "name": "ImagePropertyTable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Replacing a property's value with an image",
   "main": "src/cwLayoutTableDDLPropertyValuesWithIcons.js",
   "scripts": {
